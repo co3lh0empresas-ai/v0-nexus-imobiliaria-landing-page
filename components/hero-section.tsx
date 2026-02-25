@@ -31,7 +31,7 @@ export function HeroSection() {
 
         {/* Conversion Card with Tabs */}
         <div className="w-full max-w-2xl animate-fade-in" style={{ animationDelay: '0.2s' }}>
-          <div className="card-premium bg-white shadow-2xl border-0 rounded-2xl overflow-hidden">
+          <div className="bg-white shadow-2xl border-0 rounded-2xl overflow-hidden transition-transform duration-300 hover:scale-105">
             <Tabs defaultValue="comprar" className="w-full">
               <TabsList className="grid w-full grid-cols-2 bg-secondary rounded-none border-b border-border">
                 <TabsTrigger

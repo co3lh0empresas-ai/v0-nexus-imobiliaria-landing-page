@@ -150,12 +150,4 @@
   .animate-fade-in {
     animation: fadeIn 0.6s ease-out forwards;
   }
-
-  .hover-scale {
-    @apply transition-transform duration-300 ease-out hover:scale-105;
-  }
-
-  .card-premium {
-    @apply bg-card text-card-foreground rounded-lg border border-border shadow-sm hover-scale;
-  }
 }
