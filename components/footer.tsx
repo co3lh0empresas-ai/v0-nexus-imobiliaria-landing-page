@@ -100,7 +100,7 @@ export function Footer() {
 
         {/* Divider */}
         <div className="border-t border-primary-foreground/20 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-primary-foreground/70">
-          <p>&copy; 2024 Nexus Imobiliária. Todos os direitos reservados.</p>
+          <p>&copy; 2026 Nexus Imobiliária. Todos os direitos reservados.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-accent transition-colors">
               Termos
